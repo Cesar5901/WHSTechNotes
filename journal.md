@@ -19,3 +19,5 @@ It is important to protect our stuff online.However, if sensitive data falls int
 It makes voting much easier and acessible to people and on sociel media people can express their votes and debates on who's better and stuff like that.And potiental issue including malware and denial of service attacks; voter authentication; ballot protection and anonymization; and how disputed ballots are handled. The lack of a meaningful voter-verified paper record means there is not way to conduct a valid audit of the results. Voting apps and online voting also threaten the secrecy of ballots and the anonymity of voters, bedrock principles of our democracy. Online voting is simply not secure, nor will it be in the foreseeable future.
 # November 12, 2024
 I think the people that are moving out of the usa is leaving an impact 
+# November 18, 2024
+We are celebrating Thanksgiving.
