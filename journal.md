@@ -27,3 +27,5 @@ A recent significant development in AI is the advancement of "generative AI mode
 "Brain rot" refers to a perceived decline in cognitive abilities, often attributed to excessive consumption of trivial or unchallenging online content, leading to a feeling of mental fogginess, reduced attention span, and difficulty engaging with deeper material due to constant exposure to fast-paced, superficial digital media; for many, this year, digital media has had a negative impact on mental well-being, contributing to "brain rot" through overwhelming information overload and the tendency to compare oneself to curated online personas.For example The low taper fade meme is not just a meme it's a life style above our comprehension. 
 # December 16, 2024
 Yes im gonna be on 2k grinding domination and spending time with my family, and overall just trying to make memories so later on i can reminise about it.
+# January 8, 2025
+I think hte first semester in this class was great. Amd i would love to explore the other activities in this new semester and expand my knowledge.But to be honest i dont think I will explore nad pursue any certifications.
