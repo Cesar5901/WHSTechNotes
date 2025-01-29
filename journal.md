@@ -33,3 +33,10 @@ I think hte first semester in this class was great. Amd i would love to explore 
 AI tools have the potential to both enhance opportunities for workers by automating repetitive tasks and increasing productivity, but can also limit opportunities by potentially replacing jobs in certain sectors, particularly those involving routine tasks, meaning the overall impact depends heavily on how AI is implemented and how workers adapt to the changing landscape; therefore, the effect on workers could be a mix of both enhancement and limitation depending on the specific job and industry.To prepare for a rapidly changing job market, focus on developing transferable skills, continuously learning new technologies and industry trends, building a strong professional network, and cultivating adaptability and a willingness to pivot when necessary.
 # January 22, 2025
 Technological advances in secure data storage, data sharing, data analytics, and data visualization have the potential to enhance government transparency and accountability. Increased data accessibility allows citizens to understand how resources are being used and whether programs are effective.FBI Director Christopher Wray raises national security concerns about TikTok, warning that Chinese officials could manipulate the app's recommendation algorithm for influence operations.Overall could impact all of our sofware privavy.
+# January 27, 2025
+| Name     | Car | Mistake |
+| :------- | :-- | :------ |
+| Jimmy    |Civic|Drilled Hole In gas tank|
+| Kayla    |Sierra|Fixed the wrong problem|
+| Bart     |Toyota|Stains on Carpet|
+| Harrison |Forester|Left the Cap off|
