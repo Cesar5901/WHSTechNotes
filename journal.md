@@ -61,3 +61,7 @@ Stacked Bar Charts:
 Useful for showing the breakdown of a whole into its constituent parts. For example, a stacked bar chart could represent the different sales channels contributing to total revenue. 
 Pie Charts:
 Effective for displaying the proportion of different categories within a whole. They are suitable for representing market share, customer demographics, or budget allocation. 
+# February 18, 2025
+Last week, I discovered the fascinating concept of "phantom limbs" while watching a documentary on neuroscience. It detailed how people who have lost a limb can still experience sensations like pain or tingling in the missing body part, even though it's no longer there. This was particularly intriguing because it highlights the complex relationship between our brains and physical perception, showing how the brain can still "map" a missing limb even after it's gone, leading to these phantom sensations.
+Why I found it interesting: The idea that our brains can create such vivid sensory experiences despite a lack of physical input from a missing limb is both mind-boggling and thought-provoking. It demonstrates the incredible power of the brain to construct our reality, even when it contradicts physical actuality.
+How I learned it: The documentary provided detailed explanations of the neurological mechanisms behind phantom limb pain, including the role of neural pathways that once served the missing limb and how they can become reactivated in the brain, leading to these phantom sensations.
