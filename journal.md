@@ -69,3 +69,11 @@ How I learned it: The documentary provided detailed explanations of the neurolog
 Technology can help educators and service providers stay updated on evolving youth language by providing access to real-time trends through social media monitoring, online dictionaries specifically focused on slang, dedicated youth-oriented forums, language analysis tools, video platforms showcasing current youth culture, and online professional development courses that incorporate current youth vernacular.AI Overview
 Learn more
 Integrating slang translation tools into educational apps, AI chatbots, or online resources could offer benefits like improved language comprehension for learners, especially in informal settings, and increased engagement by making learning feel more natural; however, challenges include potential inaccuracies in slang interpretation, cultural nuances that might be missed, and the risk of promoting inappropriate language depending on the context and user population.Teaching students about appropriate slang usage helps develop essential skills related to social-emotional learning, such as: Effective communication: Understanding when to use slang and when to use more formal language helps students communicate clearly and respectfully in various social situations.
+# March 4, 2025
+| Name    | Power | Challenge |
+| :------ | :---- | :-------- |
+| Zara    |Telekenesis|Secure Building|
+| Aether  |Weather Manipulation|Prevent Assassination|
+| Thorne  |Invisibility|Underwater Rescue|
+| Silver  |Mind Control|Retrive Storm Goods|
+| Tangier |Shapeshifting|Extract Prisoner|
