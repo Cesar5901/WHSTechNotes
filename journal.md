@@ -90,3 +90,9 @@ I feel pretty good all around.Honestly just coming here every day.Take a nap.To 
 Through adaptive learning technologies, artificial intelligence can analyze a student's strengths, weaknesses, learning pace and preferences. This data allows AI systems to provide customized lesson plans and resources, ensuring that students receive instruction that is best suited to their individual learning styles.With STAAR testing this week, AI tools like ChatGPT, Khanmigo, or other learning apps can help by providing personalized learning, explaining concepts, practicing questions, and offering feedback, potentially leading to improved scores.AI can help teachers by offering personalized learning experiences, automating administrative tasks and providing extra support. While AI can enhance the teaching process, the unique qualities that teachers bring to the classroom make them irreplaceable.
 # April 14, 2025
 This is a free week.
+# April 28, 2025
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    |Chocolate|Birthday|$35.00| 
+| Michael  |Vanilla|Farewell Party|$37.00| 
+| Emma     |Carrot|Graduation|$39.00| 
