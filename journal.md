@@ -96,3 +96,5 @@ This is a free week.
 | Sally    |Chocolate|Birthday|$35.00| 
 | Michael  |Vanilla|Farewell Party|$37.00| 
 | Emma     |Carrot|Graduation|$39.00| 
+# May 5, 2025
+Yes i believe 100 people could win but with no weapons no i don't think our bare hands and punches and kicks can hurt the gorilla enough to do actual damage. I don't it's responsible for maknig this go viral it's just a thought that became really interesting, and might learn our capabilities aganist other creatures. This trends reveal how we think and do against other things and come down as humans as we know we can build things to defeat it.
