@@ -98,3 +98,5 @@ This is a free week.
 | Emma     |Carrot|Graduation|$39.00| 
 # May 5, 2025
 Yes i believe 100 people could win but with no weapons no i don't think our bare hands and punches and kicks can hurt the gorilla enough to do actual damage. I don't it's responsible for maknig this go viral it's just a thought that became really interesting, and might learn our capabilities aganist other creatures. This trends reveal how we think and do against other things and come down as humans as we know we can build things to defeat it.
+# May 12. 2025
+No i don't think the challenge is ethical because it could harem themselves or somebody. The lead which is very flamble is put in the USB in the chromebook which then heats up the lead and starts to smoke.Reason why you should be safe is because it's dangerpous and should not be replicated. 
