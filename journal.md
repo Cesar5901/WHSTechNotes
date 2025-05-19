@@ -106,3 +106,5 @@ No i don't think the challenge is ethical because it could harem themselves or s
 | Max    |3|Train| 
 | Kylie  |4|Dinosaur|
 | Emma   |5|Plush Dog|
+# May 19, 2025
+Yes i am ready for summer becasue i want this school year to end already.
